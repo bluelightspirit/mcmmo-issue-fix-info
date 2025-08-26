@@ -3,7 +3,7 @@
 
 ## What was the issue (Brief)?
 
-The issue was whenever I played on any Java-based Minecraft server that used McMMO such as McOrigins, Purple Prison, or Minecraft Central back in around 2015-2018, whenever I tried to anvil or furnace pickaxes or axes with efficiency greater than 5, the result would give me a efficiency 5 of that same item in question. This was irritating to me and because I was dealing with local Minecraft server hosting myself at the time experimenting with free ones then paid ones later on along with a great interest in Spigot/Bukkit plugins, I tracked down the issue to McMMO by myself. After that, since I realized I did not know how to code at the time, I knew I could still report the issue anyway. So I did. I found out McMMO's GitHub and reported the issue. Then on July 23, 2018, a fix was implemented by t00thpick1, and it was marked as completed on July 24, 2018. This shows that I have been caring about supporting open-source software ever since 9 years ago, and that I have a great interest in supporting everyone, including myself, as much as I can!
+The issue was whenever I played on any Java-based Minecraft server that used McMMO such as McOrigins, Purple Prison, or Minecraft Central back in around 2015-2018, whenever I tried to anvil or furnace pickaxes or axes with efficiency greater than 5, the result would give me a efficiency 5 of that same item in question. This was irritating to me and because I was dealing with local Minecraft server hosting myself at the time experimenting with free ones then paid ones later on along with a great interest in Spigot/Bukkit plugins, I tracked down the issue to McMMO by myself. After that, since I realized I did not know how to code at the time, I knew I could still report the issue anyway. So I did. I found out McMMO's GitHub and reported the issue. Then on July 23, 2018, a fix was implemented by [t00thpick1](https://github.com/t00thpick1), and it was marked as completed on July 24, 2018. This shows that I have been caring about supporting open-source software ever since 9 years ago, and that I have a great interest in supporting everyone, including myself, as much as I can!
 
 ## What was the issue (Long)?
 
@@ -25,11 +25,11 @@ I say this because getSalvageItem() has a comment saying "@return The item that 
 
 ### Was the issue reported before?
 
-Interestingly, there is an issue that was giving an idea on June 28, 2015 [here](https://github.com/mcMMO-Dev/mcMMO/issues/2635) similar to my bug, where t00thpick1, the person who fixed my bug and reworked the salvaging system, said "Sorry not happening." This was said despite "Power 7" and "sharpness 6" being mentioned on July 28, 2015. However, this was only posted a month after the June 28, 2015 feature request, so it makes sense that t00thpick1 denied it.
+Interestingly, there is an issue that was giving an idea on June 28, 2015 [here](https://github.com/mcMMO-Dev/mcMMO/issues/2635) similar to my bug, where [t00thpick1](https://github.com/t00thpick1), the person who fixed my bug and reworked the salvaging system, said "Sorry not happening." This was said despite "Power 7" and "sharpness 6" being mentioned on July 28, 2015. However, this was only posted a month after the June 28, 2015 feature request, so it makes sense that [t00thpick1](https://github.com/t00thpick1) denied it.
 
 <img width="968" height="737" alt="image" src="https://github.com/user-attachments/assets/9a4fe1b4-ccf5-43bb-acc5-09ff7dbbf14f" />
 
-I believe t00thpick1 said that because the ideas were too custom in the context of McMMO at a large-scale, while mine was much more simplistic of just allowing salvaging to go further than efficiency 5. Some other issues I found with the keyword "anvil" are [this](https://github.com/mcMMO-Dev/mcMMO/issues/2902) and [this](https://github.com/mcMMO-Dev/mcMMO/issues/2785).
+I believe [t00thpick1](https://github.com/t00thpick1) said that because the ideas were too custom in the context of McMMO at a large-scale, while mine was much more simplistic of just allowing salvaging to go further than efficiency 5. Some other issues I found with the keyword "anvil" are [this](https://github.com/mcMMO-Dev/mcMMO/issues/2902) and [this](https://github.com/mcMMO-Dev/mcMMO/issues/2785).
 
 Someone was before me by a year found at [this issue](https://github.com/mcMMO-Dev/mcMMO/issues/2514). However, this covered the "anvil" part, not necessarily the cooking in furnace part that I discovered as well. So my discovery may have been important! See this image of that issue report:
 
