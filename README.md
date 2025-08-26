@@ -1,5 +1,5 @@
 # McMMO Bug Fix Report
-## This is a repository to show that I helped fix a bug on an open-source software called McMMO back in 2016, by reporting an issue relating to efficiency 6+ being removed whenever smelting or anviling was done.
+## This is a repository to show that I helped fix a bug on an open-source software (Spigot Minecraft plugin) called McMMO back in 2016, by reporting an issue relating to efficiency 6+ being removed whenever smelting or anviling was done.
 
 ## What was the issue (Brief)?
 
