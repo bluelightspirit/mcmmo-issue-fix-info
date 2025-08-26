@@ -31,10 +31,10 @@ Someone was before me by a year found at [this issue](https://github.com/mcMMO-D
 
 <img width="961" height="503" alt="image" src="https://github.com/user-attachments/assets/f4a0b712-8538-40e8-8f4e-128b9009cdd6" />
 
-The issue was closed the same day as mine. This issue was 1:1 with [my issue](https://github.com/mcMMO-Dev/mcMMO/issues/3033)].
+The issue was closed the same day as mine. This issue matched 1:1 with [my issue](https://github.com/mcMMO-Dev/mcMMO/issues/3033).
 
-The other issues relating to "anvil" from before my report on September 18, 2016 appear to not be related to my issue when I glance over the titles. So that means (me)[https://github.com/bluelightspirit] and (KET762)[https://github.com/KET762] both helped resolve this issue with McMMO, and assisted with a large-scale rework.
+The other issues relating to "anvil" from before my report on September 18, 2016 appear to not be related to my issue when I glance over the titles. So that means [me](https://github.com/bluelightspirit) and [KET762](https://github.com/KET762) both helped resolve this issue with McMMO, and assisted with a large-scale rework.
 
 ## Conclusion
 
-I (bluelightspirit) helped resolve a somewhat annoying thing going on with McMMO relating to efficiency not staying whenever an anvil or furnace was used, by reporting the issue on GitHub. I was not the only one to do so, as (KET762)[https://github.com/KET762] reported it before me, though they did not mention the furnace part as something else to check with salvaging just in-case. But that is ok! That is what other people are there for, to give different perspectives with their own black box tests and experiences as customers.
+I (bluelightspirit) helped resolve a somewhat annoying thing going on with McMMO relating to efficiency not staying whenever an anvil or furnace was used, by reporting the issue on GitHub. I was not the only one to do so, as (KET762)[https://github.com/KET762] reported it before me, though they did not mention the furnace part as something else to check with salvaging just in-case. But that is ok! That is what other people are there for, to give different perspectives with their own black box tests and experiences as customers of the product.
