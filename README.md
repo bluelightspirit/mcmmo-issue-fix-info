@@ -9,14 +9,14 @@ The issue was whenever I played on any Java-based Minecraft server that used [Mc
 
 For proof of everything, I have links and screenshots to support my claims.
 
-[This](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO/issues/3033) is where the issue was reported by me for [McMMO](https://github.com/mcMMO-Dev/mcMMO).
+[This](https://github.com/mcMMO-Dev/mcMMO/issues/3033) is where the issue was reported by me for [McMMO](https://github.com/mcMMO-Dev/mcMMO).
 
 This is a screenshot of that issue page:
 <img width="1262" height="594" alt="image" src="https://github.com/user-attachments/assets/e97f1331-5419-4b0c-a739-c3b7f33ce43b" />
 
 ### Where is the commit that solved the issue?
 
-[This](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/commit/fbe26af2d7dbb841e19f30c63eb87ce1907c1511) is the commit in question that most likely solved the issue.
+[This](https://github.com/mcMMO-Dev/mcMMO/commit/fbe26af2d7dbb841e19f30c63eb87ce1907c1511) is the commit in question that most likely solved the issue.
 
 This is a screenshot of the code segment in question that I feel gives me enough information that this commit solved the problem:
 <img width="884" height="863" alt="image" src="https://github.com/user-attachments/assets/663cb796-6efe-48bb-b64d-59b71911ccab" />
