@@ -1,7 +1,7 @@
 # [McMMO](https://github.com/mcMMO-Dev/mcMMO) Bug Fix Report
 ## This is a repository to show that I helped fix a bug on an open-source software (Spigot Minecraft plugin) called [McMMO](https://github.com/mcMMO-Dev/mcMMO) back in 2016, by reporting an issue relating to efficiency 6+ being removed whenever smelting or anviling was done.
 
-## What was the issue (Brief)?
+## What was the issue (Summary)?
 
 The issue was whenever I played on any Java-based Minecraft server that used [McMMO](https://github.com/mcMMO-Dev/mcMMO) such as McOrigins, Purple Prison, or Minecraft Central back in around 2015-2018, whenever I tried to anvil or furnace pickaxes or axes with efficiency greater than 5, the result would give me a efficiency 5 of that same item in question. This was irritating to me and because I was dealing with local Minecraft server hosting myself at the time experimenting with free ones then paid ones later on along with a great interest in Spigot and Bukkit plugins, I tracked down the issue to [McMMO](https://github.com/mcMMO-Dev/mcMMO) by myself. After that, since I realized I did not know how to code at the time, I knew I could still report the issue anyway. So I did. I found out [McMMO](https://github.com/mcMMO-Dev/mcMMO)'s GitHub and reported the issue. Then on July 23, 2018, a fix was implemented by [t00thpick1](https://github.com/t00thpick1), and it was marked as completed on July 24, 2018. This shows that I have been caring about supporting open-source software ever since September 18, 2016, and that I have a great interest in supporting everyone, including myself, as much as I can!
 
