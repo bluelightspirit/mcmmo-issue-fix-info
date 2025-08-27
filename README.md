@@ -9,7 +9,7 @@ The issue was whenever I played on any Java-based Minecraft server that used [Mc
 
 For proof of everything, I have links and screenshots to support my claims.
 
-[This](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/3033) is where the issue was reported by me for [McMMO](https://github.com/mcMMO-Dev/mcMMO).
+[This](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO/issues/3033) is where the issue was reported by me for [McMMO](https://github.com/mcMMO-Dev/mcMMO).
 
 This is a screenshot of that issue page:
 <img width="1262" height="594" alt="image" src="https://github.com/user-attachments/assets/e97f1331-5419-4b0c-a739-c3b7f33ce43b" />
@@ -21,23 +21,23 @@ This is a screenshot of that issue page:
 This is a screenshot of the code segment in question that I feel gives me enough information that this commit solved the problem:
 <img width="884" height="863" alt="image" src="https://github.com/user-attachments/assets/663cb796-6efe-48bb-b64d-59b71911ccab" />
 
-I say this because getSalvageItem() has a comment saying "@return The item that should get salvaged" while [this](https://[McMMO](https://github.com/mcMMO-Dev/mcMMO).fandom.com/wiki/Salvage) says "Salvage is the ability to reclaim the base materials from tools and armor. It is a child skill of Repair and Fishing, and it is calculated by averaging the two levels together" now. This means it is possible my issue was in consideration at a large scale rework of [McMMO](https://github.com/mcMMO-Dev/mcMMO). I do see several issues such as [this](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/876) and [this](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/2350) reported related to SuperBreaker efficiency, but not necessarily anvil/furnace efficiency being removed.
+I say this because getSalvageItem() has a comment saying "@return The item that should get salvaged" while [this](https://[McMMO](https://github.com/mcMMO-Dev/mcMMO).fandom.com/wiki/Salvage) says "Salvage is the ability to reclaim the base materials from tools and armor. It is a child skill of Repair and Fishing, and it is calculated by averaging the two levels together" now. This means it is possible my issue was in consideration at a large scale rework of [McMMO](https://github.com/mcMMO-Dev/mcMMO). I do see several issues such as [this](https://github.com/mcMMO-Dev/mcMMO/issues/876) and [this](https://github.com/mcMMO-Dev/mcMMO/issues/2350) reported related to SuperBreaker efficiency, but not necessarily anvil/furnace efficiency being removed.
 
 ### Was the issue reported before?
 
-Interestingly, there is an issue that was giving an idea on June 28, 2015 [here](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/2635) similar to my bug, where [t00thpick1](https://github.com/t00thpick1), the person who fixed my bug and reworked the salvaging system, said "Sorry not happening." This was said despite "Power 7" and "sharpness 6" being mentioned on July 28, 2015. However, this was only posted a month after the June 28, 2015 feature request, so it makes sense that [t00thpick1](https://github.com/t00thpick1) denied it.
+Interestingly, there is an issue that was giving an idea on June 28, 2015 [here](https://github.com/mcMMO-Dev/mcMMO/issues/2635) similar to my bug, where [t00thpick1](https://github.com/t00thpick1), the person who fixed my bug and reworked the salvaging system, said "Sorry not happening." This was said despite "Power 7" and "sharpness 6" being mentioned on July 28, 2015. However, this was only posted a month after the June 28, 2015 feature request, so it makes sense that [t00thpick1](https://github.com/t00thpick1) denied it.
 
 <img width="968" height="737" alt="image" src="https://github.com/user-attachments/assets/9a4fe1b4-ccf5-43bb-acc5-09ff7dbbf14f" />
 
-I believe [t00thpick1](https://github.com/t00thpick1) said that because the ideas were too custom in the context of [McMMO](https://github.com/mcMMO-Dev/mcMMO) at a large-scale, while mine was much more simplistic of just allowing salvaging to go further than efficiency 5. Some other issues I found with the keyword "anvil" are [this](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/2902) and [this](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/2785).
+I believe [t00thpick1](https://github.com/t00thpick1) said that because the ideas were too custom in the context of [McMMO](https://github.com/mcMMO-Dev/mcMMO) at a large-scale, while mine was much more simplistic of just allowing salvaging to go further than efficiency 5. Some other issues I found with the keyword "anvil" are [this](https://github.com/mcMMO-Dev/mcMMO/issues/2902) and [this](https://github.com/mcMMO-Dev/mcMMO/issues/2785).
 
-Someone was before me by a year found at [this issue](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/2514). However, this covered the "anvil" part, not necessarily the cooking in furnace part that I discovered as well. So my discovery may have been important! See this image of that issue report:
+Someone was before me by a year found at [this issue](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO/issues/2514). However, this covered the "anvil" part, not necessarily the cooking in furnace part that I discovered as well. So my discovery may have been important! See this image of that issue report:
 
 <img width="961" height="503" alt="image" src="https://github.com/user-attachments/assets/f4a0b712-8538-40e8-8f4e-128b9009cdd6" />
 
-The issue was closed the same day as mine. This issue matched 1:1 with [my issue](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/3033).
+The issue was closed the same day as mine. This issue matched 1:1 with [my issue](https://github.com/mcMMO-Dev/mcMMO/issues/3033).
 
-The other issues relating to "anvil" from before my report on September 18, 2016 appear to not be related to my issue when I glance over the titles. So that means [me](https://github.com/bluelightspirit) and [KET762](https://github.com/KET762) both helped resolve this issue with [McMMO](https://github.com/mcMMO-Dev/mcMMO), and assisted with a large-scale rework. I also cannot find other issues relating to "furnace" from before my report on September 18, 2016 that are related to my issue besides [this](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO)-Dev/[McMMO](https://github.com/mcMMO-Dev/mcMMO)/issues/2557) that got resolved in 2015 and was not related to efficiency level, but rather lore.
+The other issues relating to "anvil" from before my report on September 18, 2016 appear to not be related to my issue when I glance over the titles. So that means [me](https://github.com/bluelightspirit) and [KET762](https://github.com/KET762) both helped resolve this issue with [McMMO](https://github.com/mcMMO-Dev/mcMMO), and assisted with a large-scale rework. I also cannot find other issues relating to "furnace" from before my report on September 18, 2016 that are related to my issue besides [this](https://github.com/mcMMO-Dev/mcMMO/issues/2557) that got resolved in 2015 and was not related to efficiency level, but rather lore.
 
 ## Conclusion
 
