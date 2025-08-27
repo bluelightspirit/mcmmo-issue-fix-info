@@ -31,7 +31,7 @@ Interestingly, there is an issue that was giving an idea on June 28, 2015 [here]
 
 I believe [t00thpick1](https://github.com/t00thpick1) said that because the ideas were too custom in the context of [McMMO](https://github.com/mcMMO-Dev/mcMMO) at a large-scale, while mine was much more simplistic of just allowing salvaging to go further than efficiency 5. Some other issues I found with the keyword "anvil" are [this](https://github.com/mcMMO-Dev/mcMMO/issues/2902) and [this](https://github.com/mcMMO-Dev/mcMMO/issues/2785).
 
-Someone was before me by a year found at [this issue](https://github.com/[McMMO](https://github.com/mcMMO-Dev/mcMMO/issues/2514). However, this covered the "anvil" part, not necessarily the cooking in furnace part that I discovered as well. So my discovery may have been important! See this image of that issue report:
+Someone was before me by a year found at [this issue](https://github.com/mcMMO-Dev/mcMMO/issues/2514). However, this covered the "anvil" part, not necessarily the cooking in furnace part that I discovered as well. So my discovery may have been important! See this image of that issue report:
 
 <img width="961" height="503" alt="image" src="https://github.com/user-attachments/assets/f4a0b712-8538-40e8-8f4e-128b9009cdd6" />
 
